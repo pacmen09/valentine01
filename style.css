@@ -57,7 +57,7 @@
   } */
   
   .overlay {
-    width: 100%;
+    width: 40%;
     max-width: 740px;
     max-height: 2640px;
     padding: 3rem 4rem 3rem 4rem;
@@ -97,7 +97,7 @@
 
 
     opacity: 0;
-    animation: ani 1s forwards;
+    animation: ani 3s forwards;
 
     
   }
@@ -334,7 +334,7 @@
     color: rgba(255, 255, 255, 0.7);
 
     opacity: 0;
-    animation: ani 2s forwards;
+    animation: ani 4s forwards;
 
   }
   @keyframes ani {
@@ -355,7 +355,7 @@
     color: rgba(255, 255, 255, 0.5);
 
     opacity: 0;
-    animation: ani 4.5s forwards;
+    animation: ani 6.5s forwards;
 
   }
 
@@ -440,7 +440,7 @@
 
 
   .overlay {
-    padding: 1rem 2rem 1rem 2rem;
+    padding: 1rem 1rem 1rem 1rem;
   }
 
   .overlayy {
