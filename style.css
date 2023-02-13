@@ -65,7 +65,7 @@
     align-items: center;
     background: rgba(255, 255, 255, 0.375);
     box-shadow: 0 0.75rem 2rem 0 rgba(0, 0, 0, 0.1);
-    border-radius: 2rem;
+    border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.125);
     margin-left: 10px;
     margin-right: 10px;
@@ -88,7 +88,7 @@
     align-items: center;
     background: rgba(255, 255, 255, 0.375);
     box-shadow: 0 0.75rem 2rem 0 rgba(0, 0, 0, 0.1);
-    border-radius: 2rem;
+    border-radius: 1.8rem;
     border: 1px solid rgba(255, 255, 255, 0.125);
     margin-left: 10px;
     margin-right: 10px;
@@ -439,12 +439,12 @@
   }
 
 
-
+  .overlay {
+    padding: 1rem 2rem 1rem 2rem;
+  }
 
   .overlayy {
-    width: 100%;
-    max-width: 740px;
-    max-height: 2640px;
+    
     padding: 3rem 2rem 1rem 2rem;
 
 
