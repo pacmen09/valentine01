@@ -432,4 +432,24 @@
 
   }
 
+  .love {
+
+    font-size: 1em;
+
+  }
+
+
+
+
+  .overlayy {
+    width: 100%;
+    max-width: 740px;
+    max-height: 2640px;
+    padding: 3rem 2rem 1rem 2rem;
+
+
+    
+  }
+  
+
 }
